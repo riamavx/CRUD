@@ -1,12 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\riama\\OneDrive\\\u00C1rea de Trabalho\\ESTUDOS\\API\\CRUD\\CarrinhoCompras.Api\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\riama\\OneDrive\\\u00C1rea de Trabalho\\ESTUDOS\\API\\CRUD\\src\\CarrinhoCompras.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40980F6A-3830-475B-9F0D-AD3046E82172}|CarrinhoCompras.Api.csproj|c:\\users\\riama\\onedrive\\\u00E1rea de trabalho\\estudos\\api\\crud\\src\\carrinhocompras.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40980F6A-3830-475B-9F0D-AD3046E82172}|CarrinhoCompras.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\riama\\OneDrive\\\u00C1rea de Trabalho\\ESTUDOS\\API\\CRUD\\src\\CarrinhoCompras.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\riama\\OneDrive\\\u00C1rea de Trabalho\\ESTUDOS\\API\\CRUD\\src\\CarrinhoCompras.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:04:47.04Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

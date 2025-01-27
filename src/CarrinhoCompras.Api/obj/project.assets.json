@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\riama\\OneDrive\\Área de Trabalho\\ESTUDOS\\API\\CRUD\\CarrinhoCompras.Api\\CarrinhoCompras.Api.csproj",
+      "projectUniqueName": "C:\\Users\\riama\\OneDrive\\Área de Trabalho\\ESTUDOS\\API\\CRUD\\src\\CarrinhoCompras.Api\\CarrinhoCompras.Api.csproj",
       "projectName": "CarrinhoCompras.Api",
-      "projectPath": "C:\\Users\\riama\\OneDrive\\Área de Trabalho\\ESTUDOS\\API\\CRUD\\CarrinhoCompras.Api\\CarrinhoCompras.Api.csproj",
+      "projectPath": "C:\\Users\\riama\\OneDrive\\Área de Trabalho\\ESTUDOS\\API\\CRUD\\src\\CarrinhoCompras.Api\\CarrinhoCompras.Api.csproj",
       "packagesPath": "C:\\Users\\riama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\riama\\OneDrive\\Área de Trabalho\\ESTUDOS\\API\\CRUD\\CarrinhoCompras.Api\\obj\\",
+      "outputPath": "C:\\Users\\riama\\OneDrive\\Área de Trabalho\\ESTUDOS\\API\\CRUD\\src\\CarrinhoCompras.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

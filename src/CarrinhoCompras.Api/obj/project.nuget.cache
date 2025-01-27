@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ko1bsQ1YoPU=",
+  "dgSpecHash": "CGgyd1Lx4dc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\riama\\OneDrive\\Área de Trabalho\\ESTUDOS\\API\\CRUD\\CarrinhoCompras.Api\\CarrinhoCompras.Api.csproj",
+  "projectFilePath": "C:\\Users\\riama\\OneDrive\\Área de Trabalho\\ESTUDOS\\API\\CRUD\\src\\CarrinhoCompras.Api\\CarrinhoCompras.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riama\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\riama\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
