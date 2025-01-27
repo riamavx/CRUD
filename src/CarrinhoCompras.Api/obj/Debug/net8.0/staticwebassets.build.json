@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cvDOWwOFyXY093UcNvrQbSMk84hIF87RohSRq7DplwI=",
+  "Source": "CarrinhoCompras.Api",
+  "BasePath": "_content/CarrinhoCompras.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
